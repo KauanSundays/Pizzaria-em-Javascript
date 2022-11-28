@@ -1,0 +1,6 @@
+Projeto Pizzaria Destacar
+1) Existe uma função no JavaScript a qual reconhece qual pizza está sendo visualizada e logo Repassa informações para a descrição, nome e preço.
+essa função é o .closest que com o .getAttribute('data-key') ele verifica qual o numero da data-key.
+
+2)Reset para 1 pizza /pesquise em script.js
+conseguimos fazer um reset para sempre ser apenas 1 pizza ao entrar no modal.
